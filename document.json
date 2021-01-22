@@ -1,9 +1,9 @@
 {
   "name": "Ingress Controller ",
-  "description": "Lab for ingress controller",
+  "description": "Lab for Ingress Controller ",
   "logo": "_images/dataset.png",
   "has_supporting_content": true,
-  "stack_id": "Ingress_Controller_-course_1611212393902",
+  "stack_id": "Ingress_Controller_-course_1611289970443",
   "type": "Course",
   "Categories": [
     "Containerization"
@@ -15,7 +15,7 @@
   "is_s3_type": false,
   "meta": {
     "Install Time": [
-      "21 minutes"
+      "30 minutes"
     ],
     "Type": [
       "Course"
@@ -24,7 +24,7 @@
       "Containerization"
     ],
     "Catalog Id": [
-      "Ingress_Controller_-course_1611212393902"
+      "Ingress_Controller_-course_1611289970443"
     ],
     "Contact": [
       "edge@ibm.com"

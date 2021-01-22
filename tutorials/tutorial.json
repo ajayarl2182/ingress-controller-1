@@ -6,7 +6,7 @@
   "tutorials": [
     {
       "description": "Lab for Ingress Controller",
-      "duration": "20",
+      "duration": "30",
       "title": "Ingress- Controller ",
       "tutorial_name": "Ingress--Controller-.md"
     }
